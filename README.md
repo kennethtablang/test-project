@@ -1,7 +1,5 @@
 # Git Commands — Reviewer (clear definitions → examples → tips)
 
-Nice — you’re building a solid foundation. Below is a compact, study-friendly **reviewer** of the essential Git commands organized by concept. Each section starts with a short definition, then shows the most useful commands and examples. Use this as your quick reference during labs and deployments. You’ve got this 🚀
-
 ---
 
 ## Setup & Identity
@@ -337,10 +335,3 @@ git push --tags
 ```
 
 ---
-
-If you want, I can:
-
-* Produce a **`GIT-CHEATSHEET.md`** ready to drop in your repo (with examples tailored to your project), or
-* Create a **one-page printable PDF** of this reviewer for quick study.
-
-Which would you like next? (I’ll generate it directly for you.)
